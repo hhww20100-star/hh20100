@@ -1,0 +1,6 @@
+{
+  "name": "AGA Food Export - Nile Agricultural Industries Co.",
+  "description": "Official international export portal for Nile Agricultural Ind. Co. (AGA) - Premium frozen vegetables, juices, jams & pickles with trilingual support (Arabic, English, Azerbaijani) and B2B order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
